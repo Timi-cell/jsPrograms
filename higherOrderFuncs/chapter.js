@@ -49,3 +49,4 @@ function textScripts(text) {
     .join(", ");
 }
 console.log(textScripts('英国的狗说"woof", 俄罗斯的狗说"тяв"'));
+
